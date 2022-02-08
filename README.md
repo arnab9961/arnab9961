@@ -12,7 +12,7 @@ I love programming, writing, learning and travelling.I believe in constant learn
 - 🌱 I’m currently learning Android App Development, Python.
 - 📷 Hobby: Videography,Video editing and Reading Books.
 - 📫 How to reach me:
- - :e-mail: You can stop and say hello to me @dmrafiun@gmail.com 
+  :e-mail: You can stop and say hello to me @dmrafiun@gmail.com 
 - ⚡ Fun fact: 
    :octocat: I'm a true batman fan.
    -  :movie_camera: I enjoy watching good movies and series.
