@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+I'm Arnab from Bangladesh and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-**dmrafiun/dmrafiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmrafiun)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
