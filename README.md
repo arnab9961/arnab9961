@@ -1,5 +1,4 @@
 #  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=radical&color=%23F7387D&size=25&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
-#### I love Programming, Video games, listening to music and travelling. I believe in constant learning and growing. 
 
 ### About Myself:
 
