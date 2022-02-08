@@ -1,10 +1,5 @@
-### Hello, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Arnab <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm Arnab and Welcome to my Github Profile.
-<typing-effect data-lines='["I am Arnab and Welcome to my Github Profile."]'>
-  <span data-target="typing-effect.content"></span>
-  <span data-target="typing-effect.cursor">|</span>
-</typing-effect>
 #### I love programming, writing, learning and travelling.I believe in constant learning and growing. 
 
 ### About Myself:
