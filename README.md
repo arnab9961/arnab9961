@@ -1,9 +1,9 @@
-### Hi,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Arnab and Welcome to my Github Profile.
 #### I love programming, writing, learning and travelling.I believe in constant learning and growing. 
 
-### About Myself:
+### About Myself:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
 - 🌱 I’m currently learning Android App Development, Python.
