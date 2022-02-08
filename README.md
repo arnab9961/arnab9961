@@ -14,6 +14,6 @@ I love programming, writing, learning and travelling.I believe in constant learn
 - 📫 How to reach me:
   :e-mail: You can stop and say hello to me @dmrafiun@gmail.com 
 - ⚡ Fun fact: 
-   :octocat: I'm a true batman fan.
+   - :octocat: I'm a true batman fan.
    -  :movie_camera: I enjoy watching good movies and series.
 
