@@ -4,7 +4,9 @@ I'm Arnab and Welcome to my Github Profile.
 I love programming, writing, learning and travelling.I believe in constant learning and growing. 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmrafiun_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmrafiun_icons=true&theme=dark" alt="vikas" />
+<div/>
 
 ### About Myself:
 
