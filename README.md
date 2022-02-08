@@ -13,5 +13,5 @@
    - :octocat: I'm a true batman fan.
    -  :movie_camera: I enjoy watching good movies and series.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmrafiun&theme=dark&radical_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmrafiun&show_icons=true&theme=radical)
 
