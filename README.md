@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-I'm Arnab from Bangladesh and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
-
+I'm Arnab and Welcome to my Github Profile.
+I love programming, writing, learning and travelling.I believe in constant learning and growing. 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmrafiun)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### About Myself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently studying Computer Science and Engineering at East West University
+- 🌱 I’m currently learning Android App Development, Python.
+- 📷 Hobby: Videography,Video editing and Reading Books.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+-   - :octocat: I'm a true batman fan.
+  - :movie_camera: I enjoy watching good movies and series.
 
