@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, There</h1>
 
 ## I'm Arnab and Welcome to my Github Profile.
 #### I love programming, writing, learning and travelling.I believe in constant learning and growing. 
