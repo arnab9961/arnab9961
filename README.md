@@ -1,4 +1,4 @@
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
 
 ### About Myself:
 
