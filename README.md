@@ -8,7 +8,7 @@
 <h4 align="center">Computer Science and Engineering Student | Aspiring Data Analyst / Data Scientist</h4>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=arnab9961&label=Profile%20Views&color=blueviolet&style=flat" alt="arnab9961" />
+ <img src="https://komarev.com/ghpvc/?username=arnab9961&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
  <a href="https://twitter.com/arnab9961">
    <img src="https://img.shields.io/twitter/follow/arnab9961?label=Follow&style=flat&logo=twitter&color=blueviolet" />
  </a>
@@ -16,15 +16,15 @@
 
 ### ⚡ About Me
 
-- 🔭 I'm currently studying Computer Science and Engineering at East West University.
-- 🌱 I'm currently learning Data Analysis, Machine Learning, and Python for Data Science.
-- 📷 Hobby: Videography, Video Editing, and Reading Books.
+- 🔭 I’m currently pursuing a degree in Computer Science and Engineering at East West University.
+- 🌱 I’m focusing on learning Data Analysis, Machine Learning, and Python for Data Science.
+- 📷 Hobbies: Videography, Video Editing, and Reading Books.
 - 💬 Ask me about **Data Analysis, Machine Learning, Python, and Data Visualization.**
-- 📫 How to reach me: [Email](mailto:dmrafiun@gmail.com)
-- ⚡ Fun facts:
- - 🦇 I'm a true Batman fan.
- - 🎥 I enjoy watching good movies and series.
- - 🎮 I love playing video games in my free time.
+- 📫 Reach me via [Email](mailto:dmrafiun@gmail.com).
+- ⚡ Fun Facts:
+  - 🦇 I’m a true Batman fan.
+  - 🎥 I enjoy watching good movies and series.
+  - 🎮 I love playing video games in my free time.
 
 ### 🛠️ Languages and Tools
 
