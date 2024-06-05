@@ -54,18 +54,11 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9961&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-### 🌐 Connect with Me
-
-<p align="center">
- <a href="https://www.linkedin.com/in/arnab9961/" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40"/>
- </a>
- <a href="https://twitter.com/arnab9961" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="40" height="40"/>
- </a>
- <a href="https://instagram.com/arnab9961" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
- </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arnab9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab9961" height="30" width="40" /></a>
+<a href="https://fb.com/arnab9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnab9961" height="30" width="40" /></a>
+<a href="https://instagram.com/arnab9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnab9961" height="30" width="40" /></a>
 </p>
 
 
