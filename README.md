@@ -73,3 +73,7 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/arnab9961/arnab9961/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </p>
+
+<p align="center">
+ <img src="https://media.giphy.com/media/RbDKaczqWovIuQ2HCE/giphy.gif" alt="Coder's Life" width="500"/>
+</p>
