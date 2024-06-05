@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
+![image](https://github.com/arnab9961/arnab9961/assets/75444354/f5bf0793-2e8c-4d53-82ed-4bd21fb1750e)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
 
 <p align="right">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hello" width="150"/>
+  https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEyM21pOHd6Mng5MzM3ejIwNjYyaG80dXVuaGY0cGFpMnJ0dXhxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.webp
 </p>
 
 <h3 align="center">Learning Data Science and Mern Stack</h3>
