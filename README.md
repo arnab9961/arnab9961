@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=%3C+Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
 
 <p align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEyM21pOHd6Mng5MzM3ejIwNjYyaG80dXVuaGY0cGFpMnJ0dXhxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.webp" alt="coding gif" width="500"/>
