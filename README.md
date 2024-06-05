@@ -58,12 +58,12 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/arnab9961/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
  </a>
  <a href="https://twitter.com/arnab9961" target="_blank">
-   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="40" height="40"/>
  </a>
  <a href="https://instagram.com/arnab9961" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
  </a>
 </p>
