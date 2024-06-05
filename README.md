@@ -54,8 +54,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9961&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🌐 Connect with Me
+
+<p align="center">
 <a href="https://linkedin.com/in/arnab9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab9961" height="30" width="40" /></a>
 <a href="https://fb.com/arnab9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnab9961" height="30" width="40" /></a>
 <a href="https://instagram.com/arnab9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnab9961" height="30" width="40" /></a>
