@@ -1,7 +1,7 @@
-![image](https://github.com/arnab9961/arnab9961/assets/75444354/f5bf0793-2e8c-4d53-82ed-4bd21fb1750e)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F727A9&lines=Hi+there%2C+I'm+Arnab)](https://git.io/typing-svg)
 
 <p align="right">
-  https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEyM21pOHd6Mng5MzM3ejIwNjYyaG80dXVuaGY0cGFpMnJ0dXhxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.webp
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEyM21pOHd6Mng5MzM3ejIwNjYyaG80dXVuaGY0cGFpMnJ0dXhxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.webp" alt="coding gif" width="300"/>
 </p>
 
 <h3 align="center">Learning Data Science and Mern Stack</h3>
@@ -26,10 +26,11 @@
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![
+C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Tools & Technologies
+
+Tools & Technologies
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -57,8 +58,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
-
-### Software & Tools
+Software & Tools
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg" alt="premiere pro" width="40" height="40"/> </a>
