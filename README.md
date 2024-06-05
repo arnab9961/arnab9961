@@ -56,17 +56,16 @@
 
 ### 🌐 Connect with Me
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css" />
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/arnab9961/" target="_blank">
-    <i class="ci ci-linkedin" style="font-size: 40px;"></i>
-  </a>
-  <a href="https://twitter.com/arnab9961" target="_blank">
-    <i class="ci ci-twitter" style="font-size: 40px;"></i>
-  </a>
-  <a href="https://instagram.com/arnab9961" target="_blank">
-    <i class="ci ci-instagram" style="font-size: 40px;"></i>
-  </a>
+ <a href="https://www.linkedin.com/in/arnab9961/" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40"/>
+ </a>
+ <a href="https://twitter.com/arnab9961" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="40" height="40"/>
+ </a>
+ <a href="https://instagram.com/arnab9961" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+ </a>
 </p>
+
 
