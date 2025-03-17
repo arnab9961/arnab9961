@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">AI Developer</h3>
-<h4 align="center">Computer Science and Engineering Student | Aspiring Data Analyst / Data Scientist</h4>
+<h4 align="center">Computer Science and Engineering Student | Aspiring Data Scientist</h4>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arnab9961&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
