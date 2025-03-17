@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEyM21pOHd6Mng5MzM3ejIwNjYyaG80dXVuaGY0cGFpMnJ0dXhxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.webp" alt="coding gif" width="500"/>
 </p>
 
-<h3 align="center">Learning Data Science and MERN Stack</h3>
+<h3 align="center">AI Developer</h3>
 <h4 align="center">Computer Science and Engineering Student | Aspiring Data Analyst / Data Scientist</h4>
 
 <p align="center">
